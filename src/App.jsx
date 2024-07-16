@@ -13,12 +13,13 @@ const App = () => {
   return (
     <div>
       
-      <div className="pt-5 lg:pt-[5.25rem] overflow-hidden">
+      <div className=" lg:pt-[5.25rem] overflow-hidden">
        <Header />
        <Hero />
        <InputLink />  
        <Footer/>
       </div>
+       
       
        
       <ButtonGradient/>
